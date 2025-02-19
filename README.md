@@ -73,12 +73,9 @@ face_yolo/
 
 Feel free to fork this repository and submit pull requests for improvements.
 
-## License
 
-This project is licensed under the MIT License.
 
 ## Author
 
-[Pritesh](https://github.com/yourusername)
-
+[Pritesh]
 Robotics Engineer 
