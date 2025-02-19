@@ -25,8 +25,7 @@ Ensure you have the following installed:
 ### Clone and Build
 
 ```sh
-cd ~/ros2_ws/src
-git clone https://github.com/yourusername/face_yolo.git
+
 cd ~/ros2_ws
 colcon build --packages-select face_yolo
 source install/setup.bash
